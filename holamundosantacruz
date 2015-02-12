@@ -1,0 +1,18 @@
+// holamundo.cpp : Defines the entry point for the console application.
+// autor : Roger La Fuente
+
+#include "stdafx.h"
+#include <iostream>
+#include "conio.h"
+
+using namespace std;
+
+
+
+int _tmain(int argc, _TCHAR* argv[])
+{
+	cout<<"hola mundo";
+	cout<<"desde santa cruz";
+	getch();
+	return 0;
+}
